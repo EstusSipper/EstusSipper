@@ -9,4 +9,4 @@
 
 - 👨‍💻 All of my projects are available on this Github repository
 
-- 📫 Reach me by email at [erwan.gonzales@epitech](erwan.gonzales@epitech)
+- 📫 Reach me by email at erwan.gonzales@epitech
