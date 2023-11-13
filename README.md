@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning **Rust and system development**
 
-- 🤝 I’m looking for an internship on Paris, FEB-2024 - MAY-2024
+- 🤝 I’m looking for an internship on Paris, **FEB-2024 - MAY-2024**
 
 - 👨‍💻 All of my projects are available on this Github repository
 
-- 📫 Reach me by email at erwan.gonzales@epitech
+- 📫 Reach me by email at **erwan.gonzales@epitech**
